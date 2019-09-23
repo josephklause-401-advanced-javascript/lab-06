@@ -1,0 +1,31 @@
+{
+  "name": "lab-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephklause-401-advanced-javascript/lab-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephklause-401-advanced-javascript/lab-06/issues"
+  },
+  "homepage": "https://github.com/josephklause-401-advanced-javascript/lab-06#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "node": "^12.10.0"
+  }
+}
