@@ -26,6 +26,7 @@
     "jest": "^24.9.0"
   },
   "dependencies": {
+    "mongoose": "^5.7.1",
     "node": "^12.10.0"
   }
 }
