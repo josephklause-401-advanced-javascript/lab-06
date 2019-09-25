@@ -1,6 +1,6 @@
 # LAB - 06
 
-## Star Wrars Mongo/Mongoose
+## Star Wars Express Server
 
 ### Author: Joe Klause
 
