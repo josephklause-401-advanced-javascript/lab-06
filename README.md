@@ -7,7 +7,7 @@
 ### Links and Resources
 * [submission PR](https://github.com/josephklause-401-advanced-javascript/lab-06/pull/2)
 * [travis](https://travis-ci.com/josephklause-401-advanced-javascript/lab-06/builds/129182581)
-* [heroku](https://git.heroku.com/star-wars-movie-api-2019.git)
+* [heroku](https://star-wars-movie-api-2019.herokuapp.com/)
 
 
 ### Setup
